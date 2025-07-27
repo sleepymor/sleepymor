@@ -58,24 +58,25 @@
   <a href="sleepymoru" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+###
+</div>
+
+###
+
+<div align="bottom">
+  <h3 align="left">🔥   My Stats :</h3>
 
   ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=sleepymor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
- <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=NotHydra&count_private=True&show_icons=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=8A8D92&bg_color=0D1117&include_all_commits=true">
-</div>
-
-###
+  <div align="left">
+    <img src="https://streak-stats.demolab.com?user=sleepymor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+  </div>
+  
+  ###
+  
+  <div align="left">
+   <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=SleepyMor&count_private=True&show_icons=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=8A8D92&bg_color=0D1117&include_all_commits=true">
+  </div>
 </div>
 
 
