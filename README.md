@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Riiezal and I'm a Dev/Project Manager,</h2>
+<h2 align="left">Hi 👋! I'm a Dev/Project Manager,</h2>
 
 ###
 
