@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm a Dev/Project Manager,</h2>
+<h2 align="left">Hi 👋! I'm a Game Dev</h2>
 
 ###
 
